@@ -1,0 +1,21 @@
+{
+   "name": "todolistapi",
+   "version": "1.0.0",
+   "description": "to do list rest api",
+   "main": "index.js",
+   "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+   },
+   "repository": {
+      "type": "git",
+      "url": "git+https://github.com/tasnim07/TODO-app.git"
+   },
+   "author": "Tasneem Haider",
+   "license": "ISC",
+   "devDependencies": {
+      "nodemon": "^1.14.10"
+   },
+   "dependencies": {
+      "express": "^4.16.2"
+   }
+}
